@@ -151,18 +151,6 @@ O(NK)
 
 ---
 
-## 📈 Expected Result
-
-Softmax achieves lower average latency compared to Random and Round-Robin due to adaptive learning.
-
----
-
-## 🎥 Demo Video
-
-YouTube (Unlisted): [Add your video link here]
-
----
-
 ## 👩‍💻 Author
 
 Distributed Systems - Final Project
